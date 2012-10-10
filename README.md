@@ -10,7 +10,9 @@ twirra-PHP
 
 ## Getting Started
 
-* First edit the `connect.php`
+1. Import the SQL Table to database
+
+2. Edit the `connect.php`
   * define the database host in the `define('DB_HOST', '')`
   * define the username in the `define('DB_USER', '')`
   * define the password in the `define('DB_PASS', '')`
